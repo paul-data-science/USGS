@@ -37,7 +37,7 @@ d3.json(jsonLink, function(data) {
   for (var i = 0; i < data.features.length; i++) {
     var faultloc = data.features[i].geometry;
     if (faultloc) { 
-      L.geoJSON(faultloc, {fillOpacity: 0, color: "orange", weight: 1}).addTo(faultlines);
+      L.geoJSON(faultloc, {fillOpacity: 0, color: "orange", weight: 1.5}).addTo(faultlines);
     };
   };
 });
