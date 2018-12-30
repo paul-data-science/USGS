@@ -1,5 +1,6 @@
-# Unit 17 | Assignment - Visualizing Data with Leaflet
-
+# Project Task: Visualizing Earthquake Data with Leaflet
+## Finished Demo
+![finished-demo](Images/finished-demo.png)
 ## Background
 
 ![1-Logo](Images/1-Logo.png)
