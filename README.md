@@ -1,5 +1,5 @@
-# Project Task: Visualizing Earthquake Data with Leaflet
-## Finished Demo
+# Project Tasks: Visualizing Earthquake Data with Leaflet
+## Finished Tasks: https://usgs-demo.herokuapp.com/index.html
 ![finished-demo](Images/finished-demo.png)
 ## Background
 
